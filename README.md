@@ -1,6 +1,6 @@
 Atualização 01 — 19/02/2026
 
-Dando continuidade no projeto.
+Dando continuidade no projeto
 
 Decidi transformar este projeto em uma experiência mais completa. A ideia inicial era somente testar as funcionalidades de cada código, sem ter um objetivo concreto, o que me fez pesquisar um modelo para articular esses testes em um projeto verdadeiro. Entre todas as ideias que tive a curto prazo para dar início aos estudos mais aprofundados, a que melhor me situei foi fazer um portfólio pessoal.
 
